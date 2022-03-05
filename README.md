@@ -8,4 +8,4 @@ Discord 모듈들의 예제입니다.
 |---|:---:|---:|
 | NextCord | 2.0.0a8 | ✅ |
 | PyCord | 2.0.0b1 | ✅ |
-| Disnake | ? | ✅ |
+| Disnake | 2.4.0 | ✅ |
