@@ -9,3 +9,5 @@ Discord 모듈들의 예제입니다.
 | NextCord | 2.0.0a8 | ✅ |
 | PyCord | 2.0.0b4 | ✅ |
 | Disnake | 2.4.0 | ✅ |
+
++ discord.py 추가예정
