@@ -11,3 +11,4 @@ Discord 모듈들의 예제입니다.
 | Disnake | 2.4.0 | ✅ |
 
 + discord.py 추가예정
+discord.py 의 업데이트 속도에 따라 다름
